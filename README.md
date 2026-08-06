@@ -1,5 +1,4 @@
-NOTICE OF CONSOLIDATION & PARTNERSHIP PENDING
-As of April 2026, the 20 pipelines of the QCAUS/PDPBioGen suites are undergoing consolidation for high-scale institutional research. Core 'Ford 2026' algorithms remain the proprietary IP of Tony Eugene Ford and the Future Ford Peace and Justice Foundation. Academic users at partner institutions are currently performing validation; all other commercial inquiries must contact the author
+NOTICE OF CONSOLIDATION the 20 pipelines of the QCAUS suites are undergoing consolidation Core 'Ford 2026' algorithms remain the proprietary IP of Tony Eugene Ford. 
 
 # 🌌 Quantum Cosmology & Astrophysics Unified Suite (QCAUS)
 [![License](https://img.shields.io/badge/License-Dual%20License-blue.svg)](LICENSE)
